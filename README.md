@@ -1,4 +1,6 @@
 # 🏠 Real Estate Market Analysis Dashboard
+# Live Dashboard: [Click here](https://app.powerbi.com/groups/me/reports/7a91d4d9-e975-44dc-98b9-281185bca01b/13650ab7ba21d80948a0?experience=power-bi)
+
 
 This project presents a dynamic and interactive real estate market dashboard that provides deep insights into housing trends, regional pricing, sales performance, and ROI using **Google Cloud Platform (GCP)** and **Power BI**.
 
