@@ -33,15 +33,12 @@ The goal of this project is to help users, analysts, and stakeholders explore an
 ---
 
 ## 📷 Screenshots
-
-<img width="1938" height="1111" alt="Screenshot 2025-07-19 011246" src="https://github.com/user-attachments/assets/0989961a-ee20-42d7-beeb-6519f09b9712" />
-
-
-<img width="1958" height="1129" alt="Screenshot 2025-07-19 011259" src="https://github.com/user-attachments/assets/9f117460-7e75-477c-91bf-50f1403e8f86" />
+<img width="2336" height="1280" alt="Screenshot 2025-08-24 222106" src="https://github.com/user-attachments/assets/d30a7f5b-9249-47a3-8f7e-57f1ead06fed" />
 
 
-<img width="1952" height="1088" alt="Screenshot 2025-07-19 011311" src="https://github.com/user-attachments/assets/91e574a9-f644-4611-9d87-98dc12e2d738" />
+<img width="2331" height="1309" alt="Screenshot 2025-08-24 222135" src="https://github.com/user-attachments/assets/a1446b36-b94e-41e9-87c5-5f14edb4d316" />
 
+<img width="2340" height="1308" alt="Screenshot 2025-08-24 222229" src="https://github.com/user-attachments/assets/4991ea57-382b-4bf7-8a51-49bab144439e" />
 
 ---
 
